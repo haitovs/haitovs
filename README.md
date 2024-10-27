@@ -1,5 +1,5 @@
 # --- :
- 🚬 I'm currently working on my telegram bot project which helps me with my marzban panel.<br> 🫂 Searching for backend and cyber security collaborations.<br> 🧠 I'm currently study python django, cyber security intruments and theory. <br>
+ 🚬 Working on a sstp client app for android <br> 🫂 Searching for backend and cyber security collaborations.<br> 🧠 I'm currently practising skills in backend, cyber security intruments and theory. <br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/not_baka__) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/spispokistm) 
