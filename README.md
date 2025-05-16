@@ -193,6 +193,11 @@ glitch: G̴L̷I̵T̸C̴H̶ ̷Q̴u̶o̴t̵e̷ ̶i̵n̴t̷e̵g̴r̷i̴t̶y̵ ̶v̴
 
 `> ACTIVATING REPO CONTRIBUTION MATRIX...`  
 `[!] Dark theme protocols engaged`  
+| Metric        | Visualization                                                                                                                                              |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| GitHub Stats  | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spispokistm&theme=radical&show_icons=true&hide_border=true&count_private=true)         |
+| Top Languages | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spispokistm&theme=radical&show_icons=true&hide_border=true&layout=compact) |
+| Streak        | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=spispokistm&theme=radical&hide_border=true)  |
 
 ```diff
 # TOP 5 CODE SANCTUARIES
