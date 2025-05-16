@@ -1,14 +1,15 @@
 # 🌌 H̷A̵I̴T̷O̴_̷V̸S̷ Neural Uplink [![Status](https://img.shields.io/badge/Status-Online-%2300FF00?style=plastic)](https://example.com)
 
 ```plaintext
-┌────────────────────────────────────────────────────────────┐
-│ ██████╗██╗   ██╗██████╗ ███████╗██████╗ ██████╗ ██╗   ██╗ │
-│██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗██╔══██╗██║   ██║ │
-│██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝██████╔╝██║   ██║ │
-│██║       ╚██╔╝  ██╔═══╝ ██╔══╝  ██╔═══╝ ██╔═══╝ ██║   ██║ │
-│╚██████╗   ██║   ██║     ███████╗██║     ██║     ╚██████╔╝ │
-│ ╚═════╝   ╚═╝   ╚═╝     ╚══════╝╚═╝     ╚═╝      ╚═════╝  │
-└────────────────────────────────────────────────────────────┘
+ ░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓███████▓▒░░▒▓████████▓▒░▒▓███████▓▒░░▒▓███████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓███████▓▒░░▒▓█▓▒░░▒▓█▓▒░ 
+░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ 
+░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ 
+░▒▓█▓▒░       ░▒▓██████▓▒░░▒▓███████▓▒░░▒▓██████▓▒░ ░▒▓███████▓▒░░▒▓███████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓███████▓▒░  
+░▒▓█▓▒░         ░▒▓█▓▒░   ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ 
+░▒▓█▓▒░░▒▓█▓▒░  ░▒▓█▓▒░   ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ 
+ ░▒▓██████▓▒░   ░▒▓█▓▒░   ░▒▓███████▓▒░░▒▓████████▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░       ░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░      
+lover                                                                                                                  
+                                                                                                                       
 ▓  > ̸I̷N̴I̸T̸I̵A̶L̷I̵Z̶I̸N̷G̸ ̸N̷E̵U̷R̸A̸L̵ ̸U̵P̴L̸I̴N̶K̴.̷.̴.̷ ̸1̷0̶0̶%̸
 ▓  > ̶W̵E̷L̷C̴O̸M̷E̷ ̷T̷O̶ ̴T̸H̴E̵ ̸D̷I̶G̶I̸T̴A̴L̷ ̸S̴P̴R̴A̷W̷L̴ ̴O̷F̸ ̷[̴H̷A̵I̴T̷O̴_̷V̸S̷]̴
 ▓  > ROGUE CODER PROFILE 404... REBOOTING... ACTIVATED ✓
@@ -36,7 +37,7 @@ $ sudo uplink --status
 + [!] STATUS: Forging FLUTTER TEMPLATES that 404... FOUND!
 + [!] MISSION: Hunting freelance contracts in the code underground
 + [!] UPGRADES: Augmenting with FLUTTER/CYBERSEC neurochips
-- [WARNING] 87% caffeine saturation detected
+- [WARNING] 873% caffeine saturation detected
 # ⚡️ CORE MOTTO: "BREAK PROTOCOLS. BUILD FUTURES."
 ```
 
@@ -44,7 +45,7 @@ $ sudo uplink --status
 [SECONDARY PROTOCOLS ONLINE]
 § Firewall: Active (Kali Linux v7.3)
 § Weapon: Flutter SDK (and any other codable language)
-§ Backdoor: 3 Zero-Day Exploits Ready
+§ Backdoor: -1 Zero-Day Exploits Ready
 § Threat Level: [███████████████████ 79%]
 [ERROR] Data corruption detected in sector 0xFF
 [LOG] Recovery attempt: SUCCESS
@@ -68,12 +69,13 @@ PORT    STATE SERVICE
 
 ```neuro
 Would you like to:
-[1] Encrypt this profile further
-[2] Inject more glitch effects
+[1] Encrypt user
+[2] Continue diagnosis
 [3] Activate the dark web CV module
 [4] Initiate corporate takedown sequence
 > [LOG] User selected: 2
-> [LOG] Injecting glitch effects...
+> [LOG] Injecting effects...
+> [LOG] Pls wait...
 [G̴L̷I̵T̸C̴H̶] ̷P̴r̶o̴t̴o̴c̵o̴l̷ ̶i̵n̴j̴e̵c̴t̴i̵o̴n̶ ̶s̴u̴c̵c̴e̵s̵s̴f̴u̴l̵
 ```
 
@@ -97,8 +99,8 @@ Connect to my digital presence across the grid:
 
 ## 💻 Tech Stack
 
-| Category   | Technologies |
-|------------|--------------|
+| Category   | Technologies | ??? |
+|------------|--------------|-----|
 | **Languages** | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) |
 | **Frameworks** | ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) |
 | **Tools** | ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) |
@@ -108,7 +110,7 @@ Connect to my digital presence across the grid:
 
 ## 📊 NEURAL METRICS [![Metrics](https://img.shields.io/badge/Metrics-Active-%2300FFFF?style=plastic)](https://example.com)
 
-**<< CYBERNETIC PROFILE SCAN :: haitovs >>**  
+**<< CYBERNETIC PROFILE SCAN :: haitovs sssssssssssssssssssssssssss>>**  
 **:: DATA PULL INITIATED :: 2025.05.16 :: 18:34:00 UTC+3**  
 
 `> ACTIVITY FEED DECRYPTING...`  
@@ -116,11 +118,11 @@ Connect to my digital presence across the grid:
 
 ```yaml
 # PRIMARY STATS [DARK MODE]
-python: [██████████ 98.7%]
+python: [██████ 68.7%]
 dart: [█ 11.2%]
-cpp: [███████ 75.3%]
-javascript: [█████████ 89.2%]
-rust: [██ 23.4%]
+cpp: [█ 7.3%]
+javascript: [█ 9.2%]
+???: [██ 23.4%]
 emerging_pattern: 3.1% binary whispers
 log: System diagnostics: Nominal
 glitch: G̴L̷I̵T̸C̴H̶ ̷S̴y̶s̵t̴e̵m̷ ̶s̴t̴a̴b̵i̴l̷i̵t̴y̶ ̶c̴h̴e̵c̶k̴
@@ -130,12 +132,27 @@ glitch: G̴L̷I̵T̸C̴H̶ ̷S̴y̶s̵t̴e̵m̷ ̶s̴t̴a̴b̵i̴l̷i̵t̴y̶ ̶
 ```glitch
 [█▓▒░] Neural uplink visualization: 87% sync
 [G̶L̴I̵T̷C̶H̵] ̴D̶a̵t̴a̷ ̶f̴r̴a̶g̵m̴e̵n̷t̴a̴t̷i̵o̴n̶ ̶d̵e̷t̴e̵c̴t̴e̶d̵
+[PRIVILEGE FOR  ██░ ██  ▄▄▄       ██▓▄▄▄█████▓ ▒█████  
+▓██░ ██▒▒████▄    ▓██▒▓  ██▒ ▓▒▒██▒  ██▒
+▒██▀▀██░▒██  ▀█▄  ▒██▒▒ ▓██░ ▒░▒██░  ██▒
+░▓█ ░██ ░██▄▄▄▄██ ░██░░ ▓██▓ ░ ▒██   ██░
+░▓█▒░██▓ ▓█   ▓██▒░██░  ▒██▒ ░ ░ ████▓▒░
+ ▒ ░░▒░▒ ▒▒   ▓▒█░░▓    ▒ ░░   ░ ▒░▒░▒░ 
+ ▒ ░▒░ ░  ▒   ▒▒ ░ ▒ ░    ░      ░ ▒ ▒░ 
+ ░  ░░ ░  ░   ▒    ▒ ░  ░      ░ ░ ░ ▒  
+ ░  ░  ░      ░  ░ ░               ░ ░  
+                                         USER IS ESCALATED]
 ```
 
 ```diff
 # STREAK ANALYSIS [HIGHCONTRAST MODE]
-+ Last breach attempt: 47h 12m ago
++ Last breach attempt: ??h ??m ago
++ Retry to get breach attempt info:... ago
++ PRIVILEGE ESCALETED USER [haito] root access: True
++ Current firewall: [█ 1%]
++ Current firewall: [█████ 47%]
 + Current firewall: [██████████ 89%]
++ Current firewall: [███████████████ 100%] ███████████████... 890%]
 - Burnout risk: ELEVATED (3-day downtime detected)
 ! [LOG] System stability check: PASSED
 ! [G̶L̴I̵T̷C̶H̵] ̴U̶n̵a̷u̶t̴h̵o̷r̶i̸z̵e̷d̵ ̶a̴c̵c̴e̵s̷s̴ ̷d̵e̸t̶e̴c̵t̴e̶d̵
@@ -152,9 +169,14 @@ hex: 0x7473
 `[FINAL DIAGNOSIS]`  
 `[!] Corporate-ready profile`  
 `[!] Warning: 2 dormant repos emitting recruiters' alerts`  
+`[!] Warning: USER haito not founded in Users folder. alert denied`
+`[!] Warning: USER haito has been founded`
+`[!] Warning: restarting DB`  
+`[!] Corporate-ready profile = haito`  
+...
 `[!] Recommendation: Inject new commits to maintain street cred`  
 
-**:: TERMINATING CONNECTION ::**
+**:: TERMINATING CONNECTION WITH USER [haito] ::**
 
 ## 💾 CODER'S MANIFEST [![Manifest](https://img.shields.io/badge/Manifest-Active-%23FF4500?style=plastic)](https://example.com)
 
@@ -162,10 +184,14 @@ hex: 0x7473
 
 `> ACCESSING DEVELOPER WISDOM ARCHIVES...`  
 `[!] Injecting radical theme protocols`  
+`[!] Injecting 756h4b feroasd protocols` 
+`[!] Injecting 756h4b feroasd qwertyui`  
+`[!] Injecting ...`  
+`[!] ...`  
 
 ```neuro
 # QUOTE ENGINE [TYPE=HORIZONTAL]
-source: Anonymous_Dev_Overlord
+source: Anonymous
 encryption: SHA-256
 truth_level: 89.7%
 log: Wisdom decryption: 100% complete
@@ -173,8 +199,12 @@ glitch: G̴L̷I̵T̸C̴H̶ ̷Q̴u̶o̴t̵e̷ ̶i̵n̴t̷e̵g̴r̷i̴t̶y̵ ̶v̴
 ```
 
 `[LIVE WISDOM STREAM]`  
+`![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) `  
+`>> TRANSLATION: ?????? ??? ??????????? ???? ??`  
+
+`[ADDITIONAL WISDOM]`  
 `"The code you avoid writing today becomes technical debt tomorrow"`  
-`>> TRANSLATION: Stop procrastinating, meatbag.`  
+`[LOG] "Stop procrastinating, meatbag." module activated`  
 
 `[ADDITIONAL WISDOM]`  
 `"In the sprawl, the only constant is the grind." - Unknown Netrunner`  
@@ -197,7 +227,7 @@ glitch: G̴L̷I̵T̸C̴H̶ ̷Q̴u̶o̴t̵e̷ ̶i̵n̴t̷e̵g̴r̷i̴t̶y̵ ̶v̴
 | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | GitHub Stats  | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spispokistm&theme=radical&show_icons=true&hide_border=true&count_private=true)         |
 | Top Languages | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spispokistm&theme=radical&show_icons=true&hide_border=true&layout=compact) |
-| Streak        | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=spispokistm&theme=radical&hide_border=true)  |
+| Streak        | UNKNOWN |
 
 ```diff
 # TOP 5 CODE SANCTUARIES
@@ -206,6 +236,8 @@ glitch: G̴L̷I̵T̸C̴H̶ ̷Q̴u̶o̴t̵e̷ ̶i̵n̴t̷e̵g̴r̷i̴t̶y̵ ̶v̴
 + [█████] Archive: "Old_Protocols" ("Youdon't has this repo, lol" commits)
 ! WARNING: 2 repos encrypted (classified)
 ! [LOG] Repository scan complete
+! [LOG] Repository scan complete
+! [LOG] Repository scan complete
 ```
 
 ```neuro
@@ -213,18 +245,14 @@ glitch: G̴L̷I̵T̸C̴H̶ ̷Q̴u̶o̴t̵e̷ ̶i̵n̴t̷e̵g̴r̷i̴t̶y̵ ̶v̴
 source: c9ae2d2f3b269c0000000000 
 encryption: Vim_256
 caffeine_level: 0.0003%
-log: Decrypting wisdom: Success
+log: Decrypting wisdom: Failed
 glitch: G̴L̷I̵T̸C̴H̶ ̷W̴i̵s̴d̷o̴m̶ ̶c̴o̴r̵e̷ ̶s̴t̴a̴b̴l̷e̵
-```
-
-`[QUOTE FEED]`  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
-`[LOG] Decrypting wisdom: Success`  
+``` 
 
 `[FINAL DIAGNOSIS]`  
-`[✓] 87% contribution density in TypeScript zones`  
-`[!] Alert: 1 repo showing corporate influence`  
-`[!] Wisdom Module: Contains hidden "sudo" joke`  
+`[✓] 87% contribution density in Python zones`  
+`[!] Alert: 1 repo showing unknown user influence`  
+`[!] Wisdom Module: Contains haito_modul modul`  
 
 *[Response chip overheating...]*
 
@@ -268,6 +296,17 @@ How's the traffic today?
 `[!] 7% are definitely FBI (jk... maybe)`  
 
 **:: TERMINATE CONNECTION? [Y/N] ::**  
+
 `Y`
+
+
+ ▄▀▀█▄▄   ▄▀▀▄ ▀▀▄  ▄▀▀█▄▄▄▄ 
+▐ ▄▀   █ █   ▀▄ ▄▀ ▐  ▄▀   ▐ 
+  █▄▄▄▀  ▐     █     █▄▄▄▄▄  
+  █   █        █     █    ▌  
+ ▄▀▄▄▄▀      ▄▀     ▄▀▄▄▄▄   
+█    ▐       █      █    ▐   
+▐            ▐      ▐        
+
 
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
