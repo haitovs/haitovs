@@ -167,16 +167,17 @@ binary: 01110100 01110011 (TS)
 hex: 0x7473
 # [G̴L̷I̵T̸C̴H̶] Decryption complete
 ```
-
-`[FINAL DIAGNOSIS]`  
-`[!] Corporate-ready profile`  
-`[!] Warning: 2 dormant repos emitting recruiters' alerts`  
+```bash
+`[FINAL DIAGNOSIS]`
+`[!] Corporate-ready profile`
+`[!] Warning: 2 dormant repos emitting recruiters' alerts`
 `[!] Warning: USER haito not founded in Users folder. alert denied`
 `[!] Warning: USER haito has been founded`
-`[!] Warning: restarting DB`  
-`[!] Corporate-ready profile = haito`  
+`[!] Warning: restarting DB`
+`[!] Corporate-ready profile = haito`
+```
 ...
-`[!] Recommendation: Inject new commits to maintain street cred`  
+`[!] Recommendation: Inject new commits to maintain street cred`
 
 **:: TERMINATING CONNECTION WITH USER [haito] ::**
 
