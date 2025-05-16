@@ -210,7 +210,7 @@ glitch: G̴L̷I̵T̸C̴H̶ ̷Q̴u̶o̴t̵e̷ ̶i̵n̴t̷e̵g̴r̷i̴t̶y̵ ̶v̴
 
 ```neuro
 # WISDOM CORE [GRUVBOX THEME]
-source: Rogue_AI_Mentor
+source: c9ae2d2f3b269c0000000000 
 encryption: Vim_256
 caffeine_level: 0.0003%
 log: Decrypting wisdom: Success
@@ -218,7 +218,7 @@ glitch: G̴L̷I̵T̸C̴H̶ ̷W̴i̵s̴d̷o̴m̶ ̶c̴o̴r̵e̷ ̶s̴t̴a̴b̴l̷
 ```
 
 `[QUOTE FEED]`  
-`"First solve it then code"`  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 `[LOG] Decrypting wisdom: Success`  
 
 `[FINAL DIAGNOSIS]`  
