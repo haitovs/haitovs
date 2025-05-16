@@ -202,7 +202,7 @@ glitch: G̴L̷I̵T̸C̴H̶ ̷Q̴u̶o̴t̵e̷ ̶i̵n̴t̷e̵g̴r̷i̴t̶y̵ ̶v̴
 ```
 
 `[LIVE WISDOM STREAM]`  
-`![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) `  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
 `>> TRANSLATION: ?????? ??? ??????????? ???? ??`  
 
 `[ADDITIONAL WISDOM]`  
