@@ -1,22 +1,19 @@
-#H̷A̵I̴T̷O̴_̷V̸S̷ profile observation
-``` markdown
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+# 🌌 H̷A̵I̴T̷O̴_̷V̸S̷ Neural Uplink
+
+```plaintext
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ▓  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ▓
-▓  > ̸I̷N̴I̸T̸I̵A̶L̷I̵Z̶I̸N̷G̸ ̸N̷E̵U̷R̸A̸L̵ ̸U̵P̴L̸I̴N̶K̴.̷.̴.̷ ̸1̷0̶0̶%̸ ̸ ̸ ̸ ̸ ̸ ̸ ̸ ̸ ̸ ̸ ̸ ̸ ̸ ̸ ̸ ̸  ▓
-▓  > ̶W̵E̷L̷C̴O̸M̷E̷ ̷T̷O̶ ̴T̸H̴E̵ ̸D̷I̶G̶I̸T̴A̴L̷ ̸S̴P̴R̴A̷W̷L̴ ̴O̷F̸ ̷[̴H̷A̵I̴T̷O̴_̷V̸S̷]̴ ̷ ̸ ̸ ̸ ̸ ̸ ̸  ▓
-▓  > ROGUE CODER PROFILE 404... REBOOTING... ACTIVATED ✓                        ▓
-▓  > SPECIALIZATION: FLUTTER FRAMEWORKS/CYBERSECURITY EXPLOITS                  ▓
+▓  > ̸I̷N̴I̸T̸I̵A̶L̷I̵Z̶I̸N̷G̸ ̸N̷E̵U̷R̸A̸L̵ ̸U̵P̴L̸I̴N̶K̴.̷.̴.̷ ̸1̷0̶0̶%̸ ̸ ̸ ̸ ̸ ̸ ̸ ̸ ̸ ̸ ̸ ̸ ̸ ̸ ̸ ̸ ̸                        ▓
+▓  > ̶W̵E̷L̷C̴O̸M̷E̷ ̷T̷O̶ ̴T̸H̴E̵ ̸D̷I̶G̶I̸T̴A̴L̷ ̸S̴P̴R̴A̷W̷L̴ ̴O̷F̸ ̷[̴H̷A̵I̴T̷O̴_̷V̸S̷]̴ ̷ ̸ ̸ ̸ ̸ ̸ ̸                        ▓
+▓  > ROGUE CODER PROFILE 404... REBOOTING... ACTIVATED ✓                       ▓
+▓  > SPECIALIZATION: FLUTTER FRAMEWORKS/CYBERSECURITY EXPLOITS                 ▓
 ▓  > CURRENT STATUS: [REDACTED] BY CORPORATE OVERLORDS                         ▓
-▓  > LAST SYNC: 2025-05-16 17:39:00 CEST                                       ▓
+▓  > LAST SYNC: 2025-05-16 18:25:00 CEST                                       ▓
 ▓  > READY TO JACK INTO YOUR NEXT BLACK-MARKET PROJECT                         ▓
 ▓  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ▓
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 ```
 
 ```diff
@@ -49,6 +46,7 @@ Would you like to:
 [4] Initiate corporate takedown sequence
 > [LOG] User selected: 2
 > [LOG] Injecting glitch effects...
+[G̴L̷I̵T̸C̴H̶] ̷P̴r̶o̴t̴o̴c̵o̴l̷ ̶i̵n̴j̴e̵c̴t̴i̵o̴n̶ ̶s̴u̴c̵c̴e̵s̵s̴f̴u̴l̵
 ```
 
 *[Your cyberdeck is waiting...]*
@@ -59,7 +57,7 @@ Would you like to:
 ▓  SUGGESTED ACTION: DEPLOY ANTI-RECRUITER MALWARE (Y/N)?                     ▓
 ▓  [LOG] User input: N                                                        ▓
 ▓  [WARNING] Corporate entities still present                                 ▓
-▓  [ALERT] Initiating counter-surveillance protocols                         ▓
+▓  [ALERT] Initiating counter-surveillance protocols                          ▓
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
@@ -75,19 +73,19 @@ Connect to my digital presence across the grid:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Frameworks
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style-for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ### Tools
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style-for-the-badge&logo=mongodb&logoColor=white)
 
 ### AI/ML
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style-for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style-for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style-for-the-badge&logo=scipy&logoColor=%white)
 
 ### Others
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style-for-the-badge&logo=nVIDIA&logoColor=white)
 
 ## 📊 **NEURAL METRICS**
 **<< CYBERNETIC PROFILE SCAN :: haitovs >>**  
@@ -98,13 +96,20 @@ Connect to my digital presence across the grid:
 
 ```diff
 # PRIMARY STATS [DARK MODE]
-+ [██████████] 98.7% Python dominance
++ [██████████████████████████████] 98.7% Python dominance
 - [█░░░░░░░░] 11.2% Dart ghost signals
 ! [███████░░] 75.3% C++ infiltration
 + [█████████] 89.2% JavaScript activity
 - [██░░░░░░░] 23.4% Rust anomalies
 ! EMERGING PATTERN: 3.1% binary whispers
 [LOG] System diagnostics: Nominal
+[G̴L̷I̵T̸C̴H̶] ̷S̴y̶s̵t̴e̵m̷ ̶s̴t̷a̴b̵i̴l̷i̵t̴y̶ ̶c̴h̴e̵c̶k̴
+```
+
+`[EMBEDDED VISUAL DATA]`  
+```glitch
+[█▓▒░] Neural uplink visualization: 87% sync
+[G̶L̴I̵T̷C̶H̵] ̴D̶a̵t̴a̷ ̶f̴r̴a̶g̵m̴e̵n̷t̴a̴t̷i̵o̴n̶ ̶d̵e̷t̴e̵c̴t̴e̶d̵
 ```
 
 ```glitch
@@ -120,6 +125,7 @@ Connect to my digital presence across the grid:
 ```binary
 01110100 01110011 00100000 01101111 01110110 01100101 01110010 01101100 01101111 01110010 01100100
 (TS overlord)
+[LOG] Decrypting footprint: Complete
 ```
 
 `[FINAL DIAGNOSIS]`  
@@ -140,6 +146,8 @@ Connect to my digital presence across the grid:
 § Source: Anonymous_Dev_Overlord
 § Encryption: SHA-256
 § Truth_Level: 89.7%
+[LOG] Wisdom decryption: 100% complete
+[G̴L̷I̵T̸C̴H̶] ̷Q̴u̶o̴t̵e̷ ̶i̵n̴t̷e̵g̴r̷i̴t̶y̵ ̶v̴e̷r̴i̵f̴i̴e̷d̵
 ```
 
 `[LIVE WISDOM STREAM]`  
@@ -177,6 +185,8 @@ Connect to my digital presence across the grid:
 § Source: Rogue_AI_Mentor
 § Encryption: Vim_256
 § Caffeine_Level: 0.0003%
+[LOG] Decrypting wisdom: Success
+[G̴L̷I̵T̸C̴H̶] ̷W̴i̵s̴d̷o̴m̶ ̶c̴o̴r̵e̷ ̶s̴t̴a̴b̴l̷e̵
 ```
 
 `[QUOTE FEED]`  
@@ -205,13 +215,17 @@ Connect to my digital presence across the grid:
 ```
 
 `[VISUAL COUNTERMEASURES ONLINE]`  
-[!](https://visitcount.itsvg.in)  
-`^ STEALTH MODE: They'll never see you coming`  
-`^ AGGRESSIVE MODE: Let the chrome skull warn them off`  
+[![Visitor Counter](https://img.shields.io/badge/Visitors-42-blueviolet)](https://visitcount.itsvg.in)  
+```glitch
+[LOG] Countermeasures active: Stealth mode engaged
+[G̶L̴I̵T̷C̶H̵] ̴U̶n̵k̴n̷o̴w̶n̵ ̶e̴n̷t̴i̵t̴y̶ ̶d̵e̷t̴e̵c̴t̴e̶d̵
+```
 
 ```binary
 01001000 01101111 01110111 00100111 01110011 00100000 01110100 01101000 01100101 00100000 01110100 01110010 01100001 01100110 01100110 01101001 01100011 00100000 01110100 01101111 01100100 01100001 01111001 00111111
 (How's the traffic today?)
+[LOG] Binary decryption: Complete
+[G̴L̷I̵T̸C̴H̶] ̷S̴e̴c̴u̵r̴i̴t̶y̵ ̶p̴r̴o̴t̴o̴c̵o̴l̷ ̶u̴p̴d̴a̵t̴e̵d̵
 ```
 
 `[SECURITY PROTOCOLS]`  
