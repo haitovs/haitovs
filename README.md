@@ -132,7 +132,9 @@ glitch: G̴L̷I̵T̸C̴H̶ ̷S̴y̶s̵t̴e̵m̷ ̶s̴t̴a̴b̵i̴l̷i̵t̴y̶ ̶
 ```glitch
 [█▓▒░] Neural uplink visualization: 87% sync
 [G̶L̴I̵T̷C̶H̵] ̴D̶a̵t̴a̷ ̶f̴r̴a̶g̵m̴e̵n̷t̴a̴t̷i̵o̴n̶ ̶d̵e̷t̴e̵c̴t̴e̶d̵
-[PRIVILEGE FOR  ██░ ██  ▄▄▄       ██▓▄▄▄█████▓ ▒█████  
+[PRIVILEGE FOR
+
+ ██░ ██  ▄▄▄       ██▓▄▄▄█████▓ ▒█████  
 ▓██░ ██▒▒████▄    ▓██▒▓  ██▒ ▓▒▒██▒  ██▒
 ▒██▀▀██░▒██  ▀█▄  ▒██▒▒ ▓██░ ▒░▒██░  ██▒
 ░▓█ ░██ ░██▄▄▄▄██ ░██░░ ▓██▓ ░ ▒██   ██░
