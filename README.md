@@ -50,5 +50,6 @@ Software engineer focused on Python backends, fast UIs, and practical network to
 
 ## GitHub at a glance
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spispokistm&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spispokistm&layout=compact&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spispokistm&show_icons=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spispokistm&layout=compact&theme=transparent)
+
