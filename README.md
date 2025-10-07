@@ -75,6 +75,6 @@ Focused on **Python/FastAPI**, **network automation**, and **UX-driven tools**.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haitovs&show_icons=true&hide_border=true&bg_color=00000000)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haitovs&layout=compact&hide_border=true&bg_color=00000000)
-![GitHub Streak](https://streak-stats.demolab.com?user=haitovs&hide_border=true&background=AABBCC00)
+![GitHub Streak](https://streak-stats.demolab.com?user=haitovs&hide_border=true&background=00000000&ring=00FFFF&fire=FF9900&currStreakNum=FFFFFF&currStreakLabel=00FFFF&sideNums=CCCCCC&sideLabels=888888&dates=666666)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=haitovs&hide_border=true&bg_color=00000000&area=true)
 [![Trophy](https://github-profile-trophy.vercel.app/?username=haitovs&no-frame=true&no-bg=true&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
