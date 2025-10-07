@@ -1,55 +1,77 @@
-# haito
+# 👨‍💻 haito
 
-Software engineer focused on Python backends, fast UIs, and practical network tooling. I build lean, testable services and tools that ship.
-
----
-
-## What I’m working on
-
-- **GMM-bot (Telegram)** — Auth, sync jobs, Google Drive integration, admin commands.  
-  _Python · aiogram · Google APIs_
-
-- **NetToolbox GUI** — IP/CIDR scanners, VLESS/Xray testing, RealDelay integration, packaged for Windows.  
-  _Python · Tkinter · PyInstaller · Networking_
-
-- **Smart Route Demo** — Streamlit + PyDeck map with traffic/events and automatic routing.  
-  _Python · Streamlit · PyDeck_
-
-- **Events Discovery (Ashgabat)** — Map-based search with draggable radius and favorites.  
-  _Python · Streamlit · Geospatial_
-
-- **Multi-tenant Admin (Expo-style site)** — FastAPI + SQLAdmin, site-scoped roles, translation fields.  
-  _Python · FastAPI · SQLAlchemy/SQLAdmin · PostgreSQL_
-
-- **Life Game (LifeXP) – MVP** — Gamified habits/health, time-limits for social apps, playful “buffs.”  
-  _Python · Product design_
+Software engineer building backend services, developer tools, and interactive data apps.  
+Focused on **Python/FastAPI**, **network automation**, and **UX-driven tools**.
 
 ---
 
-## Skills
+## 🚀 Projects
 
-**Languages:** Python, JavaScript, Dart, C++, HTML/CSS, Bash/PowerShell  
-**Backend:** FastAPI, Flask, Django, SQLAlchemy, Pydantic  
-**Frontend/UI:** Streamlit, basic JS/HTML, Tkinter  
-**DevOps & Infra:** Docker, Nginx, Cloudflare, GitHub Actions, Vercel  
-**Databases:** PostgreSQL, MySQL, MongoDB  
-**Networking:** VLESS/Xray, Cloudflare proxied endpoints, IP scanning  
-**ML/NumPy stack (working knowledge):** PyTorch, TensorFlow, NumPy, SciPy
-
----
-
-## Contact
-
-[Instagram](https://instagram.com/haito____) ·
-[Pinterest](https://pinterest.com/spispokistm) ·
-[Telegram](https://t.me/yeaes) ·
-[LinkedIn](https://linkedin.com/in/yhlas-bayev-a49284269) ·
-[Email](mailto:spispokistm@gmail.com)
+| Project | Description | Stack |
+|---------|--------------|--------|
+| **GMM-bot** | Telegram bot with Google Drive sync, scheduled jobs, user management | Python · aiogram · Google APIs |
+| **NetToolbox GUI** | Desktop scanner for VLESS/Xray IPs with RealDelay testing | Python · Tkinter · Networking |
+| **Smart Route Demo** | Interactive map with events, route planning | Streamlit · PyDeck |
+| **Event Discovery** | Map app with draggable radius filters (Ashgabat) | Streamlit · Pandas |
+| **Multi-tenant Admin** | FastAPI + SQLAdmin site roles and translation | FastAPI · SQLAlchemy |
+| **LifeXP** | Gamified life tracker with habits, buffs, and insights | Python · Product Design |
 
 ---
 
-## GitHub at a glance
+## 🧠 Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spispokistm&show_icons=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spispokistm&layout=compact&theme=transparent)
+| Category | Tools |
+|----------|-------|
+| **Languages** | Python, Dart, JavaScript, C++, HTML/CSS |
+| **Backend** | FastAPI, Flask, Django, SQLAlchemy |
+| **Frontend/UI** | Streamlit, Tkinter |
+| **Infra & Tools** | Docker, Nginx, Cloudflare, GitHub Actions |
+| **Databases** | PostgreSQL, MySQL, MongoDB |
+| **Networking** | VLESS/Xray, IP Scanners, Cloudflare Proxy |
+| **AI/ML** | NumPy, SciPy, TensorFlow (basic) |
 
+---
+
+## 📊 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spispokistm&show_icons=true&theme=transparent)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spispokistm&layout=compact&theme=transparent)  
+![GitHub Streak](https://streak-stats.demolab.com?user=spispokistm&theme=transparent)
+
+> These stats update automatically based on your public repos.
+
+---
+
+## 🧩 Activity Highlights
+
+- 🧰 **30+ repositories** across backends, GUIs, and prototypes  
+- ⚙️ Actively developing **FastAPI** + **Streamlit** tools  
+- 🧠 Strong focus on **network automation** & **visual debugging**
+- 🧭 Exploring **gamified productivity** (LifeXP)
+
+---
+
+## 🌐 Connect
+
+[📬 Email](mailto:spispokistm@gmail.com)  
+[💼 LinkedIn](https://linkedin.com/in/yhlas-bayev-a49284269)  
+[✈️ Telegram](https://t.me/yeaes)  
+[📸 Instagram](https://instagram.com/haito____)  
+📍 Based in Ashgabat
+
+---
+
+## 🧭 Dev Motto
+
+> “Build tools that solve problems, not just codebases.”
+
+---
+
+## ⚙️ Quick Facts
+
+| Metric | Value |
+|--------|-------|
+| **Main Language** | Python 🐍 |
+| **Focus Areas** | Backends · Networking · Automation |
+| **Learning** | ML Integrations · UI Design |
+| **Currently** | Building internal tools & bots |
